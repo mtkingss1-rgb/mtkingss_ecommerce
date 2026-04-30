@@ -1,0 +1,30 @@
+2026-04-30 11:30:29 [31merror[39m: [cf6664b6-41ed-46a6-89a5-7f6c11b4a4eb] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 11:30:34 [31merror[39m: [94122f22-74a2-48f8-b79a-6fd2487317b1] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 11:30:38 [31merror[39m: [970503b7-72c9-42e7-a9bd-722c5b84914d] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 11:30:39 [31merror[39m: [a6f76721-fff2-4c86-a855-f10d9bc218ae] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 11:30:42 [31merror[39m: [2e5c29fa-84ba-4640-b2e0-9ba575ca55cd] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:54:24 [31merror[39m: [f50bcb1b-a301-4a49-8b40-9a07a1dbdfc0] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 12:54:30 [31merror[39m: [7a718463-b607-4de0-bc62-9d03f448dac3] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 12:54:31 [31merror[39m: [c5c6cc4f-aa23-4de0-ab73-9ecf0d8f18b0] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 12:55:12 [31merror[39m: [f8313a20-018d-46ce-90d3-78473cf84adf] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 12:55:14 [31merror[39m: [bf996002-4653-4404-a0c4-93d83f0a503d] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 12:55:50 [31merror[39m: [1d4972ee-625e-460e-9802-9aacd11a1ffd] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:55:50 [31merror[39m: [4bcdb15a-ba24-49a7-ae08-0f96890cc7ee] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:55:51 [31merror[39m: [6a7a5559-32f8-4ea0-bb72-2be30c9565d2] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:55:51 [31merror[39m: [41b48c21-f0ef-4b9f-b37a-aafa082a3a85] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:55:51 [31merror[39m: [a8e53f73-b8a2-4c33-b2e5-1b7f8daeb9d6] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 12:55:51 [31merror[39m: [2cad115b-1b1c-457d-9192-0c0c4bc82b3c] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:02:45 [31merror[39m: [c8886b51-fbae-4b3e-ab58-5b858b861d33] [31mError processing request: Address ID is required to create an order.[39m
+2026-04-30 13:17:09 [31merror[39m: [004fbe17-9b87-4b79-8505-b286989e11d9] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:17:16 [31merror[39m: [b5bc6367-31aa-432f-abc9-49caed3fb774] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:17:22 [31merror[39m: [53eb220e-7a6a-4f22-8910-0dcaad684a08] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:17:29 [31merror[39m: [bb19d3b0-a524-4eb1-bd95-a269c90fafce] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:17:48 [31merror[39m: [4915a4f1-71a3-493c-a1ee-c838b092eecd] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:17:59 [31merror[39m: [e2755d25-9fda-4443-a5a1-1ee8a41e67c2] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:18:10 [31merror[39m: [2ca9d026-ddd6-4ddd-9295-83380e7cf795] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:18:23 [31merror[39m: [7491bb0c-556a-4064-81d3-04816b548ab9] [31mError processing request: Class constructor ObjectId cannot be invoked without 'new'[39m
+2026-04-30 13:25:52 [31merror[39m: [2db8ee85-8a9d-4781-bd36-dd598c6de458] [31mError processing request: Transaction numbers are only allowed on a replica set member or mongos[39m
+2026-04-30 13:25:59 [31merror[39m: [d3c72d52-1cdc-4a24-852b-cb0df2c5de1f] [31mError processing request: Transaction numbers are only allowed on a replica set member or mongos[39m
+2026-04-30 13:26:33 [31merror[39m: [3ad5007b-c870-4076-becc-9ce2908d9020] [31mError processing request: Transaction numbers are only allowed on a replica set member or mongos[39m
+2026-04-30 13:41:34 [32minfo[39m: [32m[Email Service] Email sent: <89986c16-e40d-19bf-cd8c-2b49006fd53e@gmail.com>[39m
+2026-04-30 13:43:02 [32minfo[39m: [32m[Email Service] Email sent: <880762a0-05c6-2e2a-2b79-107399e740cc@gmail.com>[39m

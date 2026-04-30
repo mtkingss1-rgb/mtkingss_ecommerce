@@ -1,0 +1,22 @@
+# Node.js / Backend
+backend/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables (SECURITY RISK if uploaded!)
+.env
+.env.local
+.env.*.local
+
+# Flutter / Mobile
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# IDEs and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp

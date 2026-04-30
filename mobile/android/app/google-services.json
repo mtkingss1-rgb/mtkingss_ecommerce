@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106583187696",
+    "project_id": "mtkingss-ecommerce1",
+    "storage_bucket": "mtkingss-ecommerce1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106583187696:android:8e8eb682ea8542c8a82235",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATl_UZ8GaKGkeG-bmNptHl47Lq7fwMQCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
